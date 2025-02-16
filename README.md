@@ -1,6 +1,8 @@
-FACE MASK DETECTION
+  FACE MASK DETECTION
 
 CSM D2 TEAM-08
+
+
 TEAM DETAILS
 
 GALLA DURGA PRASAD (TL)
@@ -13,6 +15,7 @@ VAKADA SATYANARAYANA SAI
 
 PANCHADI RAMAKRISHNA
 
+
 Introduction
 
 Face Mask Detection is a computer vision application that identifies whether individuals are wearing face masks in real-time. 
@@ -20,18 +23,22 @@ It has become crucial in ensuring public health and safety, especially during pa
 This project employs  Deep Learning and OpenCV to develop an accurate and efficient face mask detection system.
 Using a pre-trained deep learning model, the system can classify faces as "Mask" or "No Mask" with high accuracy.
 
+
 Abstract
 
 This project focuses on Face Mask Detection using Convolutional Neural Networks (CNNs) and OpenCV. 
 The system captures real-time video feeds, processes the input using a trained model, and classifies faces into two categories: 
 With Mask and Without Mask. 
 This project has significant applications in enforcing mask-wearing policies in public areas and improving safety measures.
+
+
 Technology
 
 - Python: Core programming language used for development.
 - OpenCV: Handles image and video processing tasks.
 - TensorFlow/Keras: Provides deep learning models for face mask classification.
 - CNN Model: A pre-trained or custom-built convolutional neural network is used for classification.
+
 
 Uses and Applications
 
@@ -40,6 +47,7 @@ Face Mask Detection has a wide range of real-world applications, including:
 - Healthcare Monitoring: Helps in hospitals and clinics to enforce mask mandates.
 - Smart Surveillance: Enhances security camera systems with real-time mask detection alerts.
 - Workplace Compliance: Ensures employees adhere to mask guidelines in offices and industries.
+
 
 Steps to Build
 
@@ -50,11 +58,13 @@ Steps to Build
 5. Mask Classification : Apply the trained model to classify detected faces as "Mask" or "No Mask."
 6. Real-time Detection : Integrate with a live camera feed to detect masks in real-time.
 
+
 Work Flow
 
 1. Input: The system captures video frames from a webcam or CCTV feed.
 2. Processing: Face detection is performed using OpenCV, followed by classification using a CNN model.
 3. Output: The system overlays "Mask" or "No Mask" labels on detected faces and provides alerts if needed.
+
 
 Conclusion
 
