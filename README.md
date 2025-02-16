@@ -1,7 +1,6 @@
-  **FACE MASK DETECTION**
+ >>>>>>>>>>>>>>> **FACE MASK DETECTION** 
 ---------------------------------------------------------------------
 CSM D2 TEAM-08
----------------------------------------------------------------------
 
 **TEAM DETAILS**
 --------------------------------------------------------------------
@@ -14,8 +13,8 @@ CHINTHALAPUDI MAHESH
 VAKADA SATYANARAYANA SAI
 
 PANCHADI RAMAKRISHNA
--------------------------------------------------------------------
 
+-------------------------------------------------------------------
 Introduction
 
 Face Mask Detection is a computer vision application that identifies whether individuals are wearing face masks in real-time. 
