@@ -41,7 +41,7 @@ Steps to Build
 1. Data Collection : Use publicly available datasets of masked and unmasked faces.
 2. Model Training : Train a CNN model using TensorFlow/Keras with labeled face mask data.
 3. Preprocessing : Resize, normalize, and augment images to improve model accuracy.
-4. Face Detection : Use OpenCV’s pre-trained **Haar cascade** or DNN face detector to locate faces.
+4. Face Detection : Use OpenCV’s pre-trained Haar cascade or DNN face detector to locate faces.
 5. Mask Classification : Apply the trained model to classify detected faces as "Mask" or "No Mask."
 6. Real-time Detection : Integrate with a live camera feed to detect masks in real-time.
 
@@ -50,6 +50,7 @@ Work Flow
 1. Input: The system captures video frames from a webcam or CCTV feed.
 2. Processing: Face detection is performed using OpenCV, followed by classification using a CNN model.
 3. Output: The system overlays "Mask" or "No Mask" labels on detected faces and provides alerts if needed.
+
 Conclusion
 
 This project presents an effective Face Mask Detection system that utilizes deep learning and computer vision techniques.By leveraging OpenCV and CNN models, the system can efficiently classify masked and unmasked faces in real-time. 
