@@ -4,15 +4,15 @@ CSM D2 TEAM-08
 
 **TEAM DETAILS**
 --------------------------------------------------------------------
-GALLA DURGA PRASAD (TL)
+> GALLA DURGA PRASAD (TL)
 
-TIRUMALASETTI SAI TEJA
+> TIRUMALASETTI SAI TEJA
 
-CHINTHALAPUDI MAHESH
+> CHINTHALAPUDI MAHESH
 
-VAKADA SATYANARAYANA SAI
+> VAKADA SATYANARAYANA SAI
 
-PANCHADI RAMAKRISHNA
+> PANCHADI RAMAKRISHNA
 
 -------------------------------------------------------------------
 Introduction
