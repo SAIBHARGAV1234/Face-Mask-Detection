@@ -1,18 +1,18 @@
 **FACE MASK DETECTION** 
 ---------------------------------------------------------------------
-CSM D2 TEAM-08
+CAI D2 TEAM-28
 
 **TEAM DETAILS**
 --------------------------------------------------------------------
-> GALLA DURGA PRASAD (TL)
+> SAI SANDEEP AOTINI(TL)
 
-> TIRUMALASETTI SAI TEJA
+> SAI BHARGAV RUDRAPAKA
 
-> CHINTHALAPUDI MAHESH
+> MALLABATHULA SAI ATYA SURESH
 
-> VAKADA SATYANARAYANA SAI
+> PARI MAHESH
 
-> PANCHADI RAMAKRISHNA
+> CHUKKA SIVA KARTHIK 
 
 -------------------------------------------------------------------
 Introduction
